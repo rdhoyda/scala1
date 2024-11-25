@@ -1,0 +1,8 @@
+**Scala Subtyping Exercises**
+- **Technologies Used:** Scala
+- **Summary:** Implemented a series of exercises to deepen understanding of Scala's type system and object-oriented programming.
+- **Key Contributions:**
+  - Extended a counter class to track operations, enhancing functionality while maintaining immutability.
+  - Applied higher-order functions to manipulate collections of counters, ensuring functional programming principles.
+  - Demonstrated problem-solving skills and attention to detail by adhering to strict configuration and test requirements.
+- **Skills Acquired:** Scala programming, class inheritance, functional programming, debugging, and problem-solving.
